@@ -1,1 +1,2 @@
 # UNIST_Frame_Data_Bot
+This script supports python 3.5.3-3.6 and requires the following libraries: Discord, requests, BeautifulSoup, and asyncio. In order to use the bot, use this link https://discordapp.com/api/oauth2/authorize?client_id=514128008907456524&permissions=0&scope=bot to invite the bot to a discord server. If you type into the server ![charater] [input] the bot will respond with the relevant information.
